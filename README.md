@@ -1,26 +1,33 @@
 ## Leon's Portfolio
 
-### About:
+### :books: My Projects:
 
-Current projects working on:
+* Forecasting Wave Height with Time Series and Linear Regression
 
-Time series for forecasting the price of precious metals
+### 🔭 Current Projects I'm working on:
 
-Here's our logo (hover to see the title text):
+* Game AI for testing a fictional board game
+* Time series for forecasting the price of precious metals
+* NLP for identifying thesis of articles
 
-Inline-style: 
-![alt text]()
+### 🌱 I’m currently learning
+
+* Long short term memory
+* Deep Q-learning
+
+### 📫 How to reach me:
+
+[<img src = "https://github.com/leon31415/leon31415/blob/main/vecteezy_blue-color-white-background-linkedin-design-logo-sign-symbol_9097186.jpg" width=60/>](https://www.linkedin.com/in/leon-guest-2ab175205/)
 
 <!--
 **leon31415/leon31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 
 - ⚡ Fun fact: ...
 -->
