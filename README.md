@@ -6,6 +6,11 @@ Current projects working on:
 
 Time series for forecasting the price of precious metals
 
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text]()
+
 <!--
 **leon31415/leon31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
