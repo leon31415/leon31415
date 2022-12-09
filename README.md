@@ -3,16 +3,18 @@
 ### :books: My Projects:
 
 * Forecasting Wave Height with Time Series and Linear Regression
+  - [x] Import and clean data
+  - [x] Data exploration
+  - [x] Apply linear regression to identify correlations and predict wave height
+  - [x] Apply time series for forecasting
+  - [x] Combined model for forecasting wave hieght
 
 ### My Languages:
-Main Languages:
-|-|-|
-|-|-|
-|| Python | 
-|| HTML |
-|| SQL |
-|| Java |
-|| LaTeX|
+
+| <img src = "https://github.com/leon31415/leon31415/blob/main/python-logo-master-v3-TM.png" width = 100> | <img src = "https://github.com/leon31415/leon31415/blob/main/icons8-sql-100.png" width = 100>| <img src="https://github.com/leon31415/leon31415/blob/main/java-seeklogo.com.svg" width = 100>|<img src="https://github.com/leon31415/leon31415/blob/main/icons8-html-5-90.png" width = 100>|
+|---------|---------|---------|---------|
+|Python|SQL|Java|HTML|
+        
 
 ### 🔭 Current Projects I'm working on:
 
