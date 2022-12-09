@@ -6,6 +6,8 @@
 
 ### My Languages:
 Main Languages:
+|-|-|
+|-|-|
 || Python | 
 || HTML |
 || SQL |
