@@ -4,6 +4,14 @@
 
 * Forecasting Wave Height with Time Series and Linear Regression
 
+### My Languages:
+Main Languages:
+|| Python | 
+|| HTML |
+|| SQL |
+|| Java |
+|| LaTeX|
+
 ### 🔭 Current Projects I'm working on:
 
 * Gaming AI for testing a game I invented.
@@ -33,8 +41,6 @@
 
 * Long short term memory
 * Deep Q-learning
-
-
 
 
 ### 📫 How to reach me:
