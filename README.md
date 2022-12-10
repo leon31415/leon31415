@@ -39,9 +39,9 @@
 * Webscraping and NLP on news articles.
 
   - [x] Webscraping news articles
+  - [x] Extractive text summarisation
+  - [x] Topic clustering
   - [ ] Sentiment analysis on articles
-  - [ ] Extractive text summarisation
-  - [ ] Topic clustering
 
 ---
 
