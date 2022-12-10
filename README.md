@@ -31,16 +31,23 @@
 
 * Time series for forecasting the price of precious metals.
 
-  - [x] Webscraping the data for the value of gold
+  - [x] Webscraping the data for the value of gold.
   - [x] Calculating the Bollinger Bands and other key stats from the data.
   - [x] Applying ARIMA model to the data.
   - [ ] Using ARIMA to forecast future values.
 
 * Webscraping and NLP on news articles.
 
-  - [x] Webscraping news articles
-  - [x] Extractive text summarisation
-  - [x] Text clustering
+  - [x] Webscraping news articles.
+  - [x] Extractive text summarisation.
+  - [x] Text clustering.
+  - [ ] Visualise clustering.
+
+* Further webscraping and NLP on news articles.
+
+  - [ ] Add more newsites for more data.
+  - [ ] Sentiment analysis + other features.
+  - [ ] Further clustering.
 
 ---
 
