@@ -41,7 +41,6 @@
   - [x] Webscraping news articles
   - [x] Extractive text summarisation
   - [x] Text clustering
-  - [ ] Sentiment analysis
 
 ---
 
