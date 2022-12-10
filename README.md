@@ -40,8 +40,8 @@
 
   - [x] Webscraping news articles
   - [x] Extractive text summarisation
-  - [x] Topic clustering
-  - [ ] Sentiment analysis on articles
+  - [x] Text clustering
+  - [ ] Sentiment analysis
 
 ---
 
