@@ -16,6 +16,13 @@
   - [x] Apply linear regression to identify correlations and predict wave height
   - [x] Apply time series for forecasting
   - [x] Combined model for forecasting wave height
+
+* Webscraping and NLP on news articles.
+
+  - [x] Webscraping news articles.
+  - [x] Extractive text summarisation.
+  - [x] Text clustering.
+  - [x] Visualise clustering.
         
 ---
 ### 🔭 Current Projects I'm working on:
@@ -35,13 +42,6 @@
   - [x] Calculating the Bollinger Bands and other key stats from the data.
   - [x] Applying ARIMA model to the data.
   - [ ] Using ARIMA to forecast future values.
-
-* Webscraping and NLP on news articles.
-
-  - [x] Webscraping news articles.
-  - [x] Extractive text summarisation.
-  - [x] Text clustering.
-  - [ ] Visualise clustering.
 
 * Further webscraping and NLP on news articles.
 
